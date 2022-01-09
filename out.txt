@@ -1,0 +1,6 @@
+Machine Bugs Bunny|51|500|50
+Machine Cecil Turtle|45|545|45
+Machine Daffy Duck|40|580|45
+Machine Elmer Fudd|100|1000|10
+Machine Fog Horn|35|350|99
+Machine Road Runner|50|500|100
